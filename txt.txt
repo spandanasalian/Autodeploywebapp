@@ -1,0 +1,19 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C823-5BE5
+
+ Directory of C:\Users\Spandana\Desktop\autodeploywebapp\webapp-master
+
+31-01-2022  06:48 PM    <DIR>          .
+31-01-2022  06:48 PM    <DIR>          ..
+31-01-2022  05:31 PM    <DIR>          .idea
+28-12-2017  08:07 PM                48 .travis.yml
+28-12-2017  08:07 PM             1,079 LICENSE
+30-01-2022  09:11 PM             1,272 mvn-hello-world.iml
+28-12-2017  08:07 PM             1,784 pom.xml
+30-01-2022  08:26 PM               666 read.txt
+28-12-2017  08:07 PM               729 README.md
+31-01-2022  06:23 PM    <DIR>          src
+30-01-2022  08:38 PM               657 text.txt
+31-01-2022  06:48 PM                 0 txt.txt
+               8 File(s)          6,235 bytes
+               4 Dir(s)  38,614,302,720 bytes free

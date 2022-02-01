@@ -12,7 +12,7 @@ stages{
 
 steps{
         
-        git 'https://github.com/spandanasalian/web_app.git'
+        git 'https://github.com/spandanasalian/Autodeploywebapp.git'
         }
     }
     
